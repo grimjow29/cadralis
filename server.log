@@ -1,0 +1,56 @@
+::1 - - [26/Nov/2025 06:00:02] "HEAD / HTTP/1.1" 200 -
+::1 - - [26/Nov/2025 06:00:18] "GET / HTTP/1.1" 200 -
+::1 - - [26/Nov/2025 06:00:18] "GET /styles.css HTTP/1.1" 200 -
+::1 - - [26/Nov/2025 06:00:18] "GET /script.js HTTP/1.1" 200 -
+::1 - - [26/Nov/2025 06:00:20] code 404, message File not found
+::1 - - [26/Nov/2025 06:00:20] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [26/Nov/2025 14:11:40] "GET / HTTP/1.1" 200 -
+::1 - - [26/Nov/2025 15:31:27] "GET / HTTP/1.1" 200 -
+::1 - - [26/Nov/2025 15:31:27] "GET /styles.css HTTP/1.1" 200 -
+::1 - - [26/Nov/2025 15:31:27] "GET /script.js HTTP/1.1" 304 -
+::1 - - [26/Nov/2025 15:33:50] "HEAD / HTTP/1.1" 200 -
+::1 - - [26/Nov/2025 15:38:35] "GET / HTTP/1.1" 200 -
+::1 - - [26/Nov/2025 15:38:41] "GET / HTTP/1.1" 200 -
+::1 - - [26/Nov/2025 15:42:06] "GET / HTTP/1.1" 200 -
+::1 - - [26/Nov/2025 15:42:06] "GET /styles.css HTTP/1.1" 200 -
+::1 - - [26/Nov/2025 15:42:06] code 404, message File not found
+::1 - - [26/Nov/2025 15:42:06] code 404, message File not found
+::1 - - [26/Nov/2025 15:42:06] "GET /assets/images/logo.png HTTP/1.1" 404 -
+::1 - - [26/Nov/2025 15:42:06] "GET /assets/images/logo-white.png HTTP/1.1" 404 -
+::1 - - [26/Nov/2025 15:42:06] code 404, message File not found
+::1 - - [26/Nov/2025 15:42:06] code 404, message File not found
+::1 - - [26/Nov/2025 15:42:06] "GET /assets/images/logo-white.png HTTP/1.1" 404 -
+::1 - - [26/Nov/2025 15:42:06] "GET /assets/images/logo.png HTTP/1.1" 404 -
+::1 - - [26/Nov/2025 15:42:42] "GET / HTTP/1.1" 200 -
+::1 - - [26/Nov/2025 15:43:43] "GET / HTTP/1.1" 200 -
+::1 - - [26/Nov/2025 15:43:43] "GET /styles.css HTTP/1.1" 200 -
+::1 - - [26/Nov/2025 15:43:43] "GET /assets/images/logo-white.png HTTP/1.1" 200 -
+::1 - - [26/Nov/2025 15:43:43] "GET /assets/images/logo.png HTTP/1.1" 200 -
+::1 - - [26/Nov/2025 16:05:12] "HEAD / HTTP/1.1" 200 -
+::1 - - [26/Nov/2025 16:05:30] "GET / HTTP/1.1" 200 -
+::1 - - [26/Nov/2025 16:05:30] "GET /styles.css HTTP/1.1" 200 -
+::1 - - [26/Nov/2025 16:05:30] "GET /assets/images/logo-white.png HTTP/1.1" 304 -
+::1 - - [26/Nov/2025 16:05:30] "GET /assets/images/logo.png HTTP/1.1" 304 -
+::1 - - [29/Nov/2025 03:15:23] "GET / HTTP/1.1" 200 -
+::1 - - [29/Nov/2025 03:15:23] "GET /styles.css HTTP/1.1" 200 -
+::1 - - [29/Nov/2025 03:15:23] "GET /assets/images/logo.png HTTP/1.1" 200 -
+::1 - - [29/Nov/2025 03:15:23] "GET /script.js HTTP/1.1" 200 -
+::1 - - [29/Nov/2025 03:15:23] "GET /assets/images/logo-white.png HTTP/1.1" 200 -
+::1 - - [29/Nov/2025 03:15:28] code 404, message File not found
+::1 - - [29/Nov/2025 03:15:28] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+::1 - - [29/Nov/2025 03:15:28] code 404, message File not found
+::1 - - [29/Nov/2025 03:15:28] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+::1 - - [29/Nov/2025 03:23:24] "GET / HTTP/1.1" 200 -
+::1 - - [29/Nov/2025 03:23:27] "GET / HTTP/1.1" 200 -
+::1 - - [29/Nov/2025 03:24:11] "GET / HTTP/1.1" 200 -
+::1 - - [29/Nov/2025 03:30:12] "GET / HTTP/1.1" 200 -
+::1 - - [29/Nov/2025 03:31:10] "GET / HTTP/1.1" 200 -
+::1 - - [29/Nov/2025 03:33:53] "GET / HTTP/1.1" 200 -
+::1 - - [29/Nov/2025 03:34:36] "GET / HTTP/1.1" 200 -
+::1 - - [29/Nov/2025 03:34:42] "GET / HTTP/1.1" 200 -
+::1 - - [29/Nov/2025 03:36:49] "GET / HTTP/1.1" 200 -
+::1 - - [29/Nov/2025 03:38:00] "GET / HTTP/1.1" 200 -
+::1 - - [29/Nov/2025 03:38:18] "GET / HTTP/1.1" 200 -
+::1 - - [29/Nov/2025 03:41:52] "GET / HTTP/1.1" 200 -
+::1 - - [29/Nov/2025 03:42:08] "GET / HTTP/1.1" 200 -
+::1 - - [29/Nov/2025 03:45:05] "GET / HTTP/1.1" 200 -

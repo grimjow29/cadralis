@@ -1,0 +1,32 @@
+{
+  "site": {
+    "title": "Cadralis Connect - Votre expertise digitale",
+    "description": "Solutions digitales innovantes. Réservez un appel conseil ou répondez à notre questionnaire personnalisé.",
+    "keywords": ["Cadralis", "conseil digital", "transformation digitale", "expertise web", "consultation"],
+    "author": "Cadralis"
+  },
+  "colors": {
+    "primary": "#00153C",
+    "secondary": "#F4CB61",
+    "primaryLight": "#002B5C",
+    "primaryDark": "#000A1E",
+    "secondaryLight": "#F7D47A",
+    "secondaryDark": "#E6B647"
+  },
+  "integrations": {
+    "typeform": {
+      "id": "01KAY6RHP6T9D7ZXZBEV11K7EB",
+      "embedType": "live"
+    },
+    "calendly": {
+      "url": "https://calendly.com/cadralis/30min",
+      "embedType": "Inline"
+    }
+  },
+  "settings": {
+    "scrollOffset": 80,
+    "animationDuration": 600,
+    "successMessageDuration": 3000
+  },
+  "version": "1.0.0"
+}
